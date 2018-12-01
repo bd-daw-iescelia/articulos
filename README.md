@@ -9,3 +9,4 @@ Articulos de interés relacionados con el módulo de Bases de Datos
 ### Recursos
 
 - [Libros de programación y bases de datos](https://www.chollometro.com/ofertas/libros-de-programacion-criptomonedas-etc-todo-en-espanol-88330).
+- [Introducción a Docker](https://www.youtube.com/watch?v=Fv-97I_wrJ0&list=PLEtcGQaT56chIpnSavOSvaU2ZGAW7d1vE).
